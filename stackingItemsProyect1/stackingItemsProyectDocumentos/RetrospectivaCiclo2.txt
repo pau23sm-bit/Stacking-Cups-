@@ -1,0 +1,35 @@
+RETROSPECTIVA DEL PROYECTO - CICLO 2
+
+1. ¿Qué hicimos bien en este ciclo?
+   - Implementamos correctamente la herencia con StackingItem, Cup y Lid.
+   - Agregamos los métodos swap, cover y swapToReduce sin romper el código existente.
+   - Las pruebas unitarias en modo invisible funcionaron bien.
+
+2. ¿Qué hicimos mal o qué podríamos mejorar?
+   - Algunos métodos como swapToReduce podrían optimizarse, pero para el nivel actual está bien.
+   - La documentación podría ser más detallada en algunos métodos.
+
+3. ¿Qué aprendimos en este ciclo?
+   - Cómo usar herencia en Java para compartir comportamiento.
+   - Importancia de pruebas unitarias para validar funcionalidad.
+
+4. ¿Qué dificultades encontramos?
+   - Ajustar la altura visible cuando se intercambian elementos.
+   - Asegurar que las tazas tapadas se vean diferentes.
+
+5. ¿Cómo podríamos mejorar el proceso para el próximo ciclo?
+   - Planificar mejor los mini-ciclos para evitar cambios de último minuto.
+   - Usar más comentarios en el código.
+
+6. ¿Qué cambios haríamos si volviéramos a empezar?
+   - Empezar con la herencia desde el ciclo 1 para evitar refactorización.
+
+7. ¿Qué nos gustaría hacer diferente en el próximo ciclo?
+   - Enfocarnos más en la resolución del problema de la maratón.
+
+8. ¿Qué nos llevamos de este ciclo para aplicar en futuros proyectos?
+   - La importancia de mantener el código extensible y bien probado.
+
+RETROSPECTIVA ACUMULADA (CICLOS 1 Y 2):
+- Ciclo 1: Aprendimos a crear clases básicas y simular apilamiento.
+- Ciclo 2: Agregamos herencia y nuevas funcionalidades con pruebas.

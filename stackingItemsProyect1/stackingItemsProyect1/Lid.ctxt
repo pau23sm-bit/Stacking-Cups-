@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Lid
+comment1.params=size
+comment1.target=void\ setBlockSize(int)
+comment2.params=i\ color
+comment2.target=Lid(int,\ java.lang.String)
+comment3.params=
+comment3.target=void\ makeVisible()
+comment4.params=
+comment4.target=void\ makeInvisible()
+comment5.params=newX\ newY
+comment5.target=void\ moveTo(int,\ int)
+comment6.params=
+comment6.target=int\ getHeight()
+comment7.params=
+comment7.target=int\ getWidth()
+numComments=8

@@ -1,0 +1,36 @@
+RETROSPECTIVA DEL PROYECTO - CICLO 3
+
+1. ¿Qué hicimos bien en este ciclo?
+   - Resolvimos el problema de la maratón usando matemáticas simples (altura = k^2).
+   - Separamos la resolución (TowerContest) de la simulación (Tower).
+   - Las pruebas unitarias cubren los nuevos métodos.
+
+2. ¿Qué hicimos mal o qué podríamos mejorar?
+   - La simulación podría mostrar más detalles, pero está básica como pediste.
+   - Podríamos agregar más casos de prueba.
+
+3. ¿Qué aprendimos en este ciclo?
+   - Cómo resolver problemas algorítmicos y simularlos gráficamente.
+   - Importancia de separar responsabilidades en clases.
+
+4. ¿Qué dificultades encontramos?
+   - Asegurar que TowerContest no use Tower para resolver, solo para simular.
+   - Calcular la altura máxima sin exceder h.
+
+5. ¿Cómo podríamos mejorar el proceso para el próximo ciclo?
+   - Incluir más pruebas desde el inicio.
+   - Documentar mejor las fórmulas matemáticas.
+
+6. ¿Qué cambios haríamos si volviéramos a empezar?
+   - Planificar la separación de clases desde el ciclo 1.
+
+7. ¿Qué nos gustaría hacer diferente en el próximo ciclo?
+   - Agregar más funcionalidades avanzadas.
+
+8. ¿Qué nos llevamos de este ciclo para aplicar en futuros proyectos?
+   - La importancia de la separación de responsabilidades y pruebas.
+
+RETROSPECTIVA ACUMULADA (CICLOS 1, 2 Y 3):
+- Ciclo 1: Clases básicas y simulación inicial.
+- Ciclo 2: Herencia y nuevas funcionalidades con pruebas.
+- Ciclo 3: Resolución algorítmica y simulación separada.

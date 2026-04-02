@@ -1,0 +1,23 @@
+Enlace repositorio: https://github.com/pau23sm-bit/Stacking-Cups-}
+RETROSPECTIVA 
+¿Cuáles fueron los mini-ciclos definidos? Justifíquenlos.
+miniCiclo1: Refactorizar tower, para mejorar el código y diseño.
+miniCiclo2: Agregar nuevos tipos de tazas y tapas ya que una vez refactorizado tower se puede añadir el nuevo comportamiento. 
+miniCiclo3:Hacer pruebas y añadir un nuevo tipo para verificar que todo funciona. 
+ ¿Cuál fue el tiempo total invertido por cada uno de ustedes? (Horas/Hombre)
+ 12/Niviayo
+12/Solano
+ ¿Cuál consideran fue el mayor logro? ¿Por qué?
+Lograr que los nuevos tipos funcionen sin dañar lo anterior.
+Porque el sistema quedó más organizado y ahora es más fácil agregar cosas nuevas.
+ ¿Cuál consideran que fue el mayor problema técnico? ¿Qué hicieron para resolverlo?
+El problema más grande fue manejar cómo interactúan las tazas y tapas nuevas dentro de la torre.
+Lo resolvimos probando muchos casos y ajustando la lógica hasta que todo funcionara bien.
+¿Qué hicieron bien como equipo? ¿Qué se comprometen a hacer para mejorar los resultados?
+Dividimos bien el trabajo y nos apoyamos cuando alguna estaba bloqueda en alguna parte. 
+Nos comprometemos a invertir más tiempo en el proyecto. 
+ Considerando las prácticas XP incluidas en los laboratorios. ¿cuál fue la más útil? ¿por qué?
+Simplicity
+Fue la más útil porque permitió mantener el código claro y sin complejidad innecesaria, facilitando los cambios y evitando errores al agregar nuevos comportamientos.
+ ¿Qué referencias usaron? ¿Cuál fue la más útil? Incluyan citas con estándares adecuados.
+Oracle. (2024). Java Platform, Standard Edition API Specification. Recuperado de https://docs.oracle.com/en/java/javase/

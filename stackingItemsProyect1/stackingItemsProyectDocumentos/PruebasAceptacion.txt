@@ -1,0 +1,19 @@
+PRUEBAS DE ACEPTACIÓN PARA LA PRESENTACIÓN
+
+Prueba de Aceptación 1: Simulación Básica
+- Descripción: Crear una torre con 5 tazas y altura máxima 9, resolver y simular.
+- Pasos:
+  1. TowerContest tc = new TowerContest();
+  2. tc.simulate(5, 9);
+- Resultado esperado: La torre muestra tazas 1, 2, 3 apiladas (altura total 9).
+- Criterio de aceptación: La torre se ve correctamente con las tazas visibles.
+
+Prueba de Aceptación 2: Intercambio y Reducción de Altura
+- Descripción: Crear torre, agregar tazas, intercambiar para reducir altura.
+- Pasos:
+  1. Tower t = new Tower(5, 20);
+  2. t.pushCup(1); t.pushCup(2); t.pushCup(3);
+  3. String[][] swap = t.swapToReduce();
+  4. if (swap.length > 0) t.swap(swap[0], swap[1]);
+- Resultado esperado: La altura se reduce si hay mejora.
+- Criterio de aceptación: La altura después del intercambio es menor o igual.
