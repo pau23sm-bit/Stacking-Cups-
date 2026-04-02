@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=TowerContest
+comment0.text=\r\n\ TowerContest\ \u2014\ clase\ para\ resolver\ y\ simular\ el\ problema\ de\ la\ marat\u00F3n.\r\n\r\n\ CICLO\ 3\:\ Esta\ clase\ resuelve\ el\ problema\ de\ la\ marat\u00F3n\r\n\ usando\ un\ algoritmo\ Greedy\ (de\ mayor\ a\ menor\ altura).\r\n\ Tower\ solo\ simula,\ NO\ resuelve\ el\ problema.\r\n
+comment1.params=n\ h
+comment1.target=java.lang.String\ solve(int,\ int)
+comment1.text=\r\n\ Resuelve\ el\ problema\ de\ la\ marat\u00F3n\ usando\ algoritmo\ Greedy.\r\n\r\n\ Algoritmo\ Greedy\:\ Selecciona\ tazas\ de\ mayor\ a\ menor\ altura\r\n\ que\ logren\ encajar\ en\ la\ altura\ m\u00E1xima,\ sin\ excederla.\r\n\r\n\ @param\ n\ n\u00FAmero\ m\u00E1ximo\ de\ tazas\ disponibles\ (1\ a\ n)\r\n\ @param\ h\ altura\ m\u00E1xima\ permitida\r\n\ @return\ "CUPS\:\ lista\ de\ tazas\ seleccionadas"\ o\ "NO"\r\n
+comment2.params=n\ h
+comment2.target=void\ simulate(int,\ int)
+comment2.text=\r\n\ Simula\ la\ soluci\u00F3n\ en\ la\ torre\ gr\u00E1fica.\r\n\ @param\ n\ n\u00FAmero\ de\ tazas\r\n\ @param\ h\ altura\ m\u00E1xima\r\n
+numComments=3

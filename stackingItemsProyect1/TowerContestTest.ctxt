@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=TowerContestTest
+comment0.text=\r\n\ Pruebas\ unitarias\ para\ TowerContest\ (ciclo\ 3).\r\n\ \r\n\ Ciclo\ 3\:\ Algoritmo\ Greedy\ que\ selecciona\ tazas\ de\ mayor\ a\ menor\ altura\r\n\ que\ quepan\ en\ la\ altura\ m\u00E1xima.\r\n
+comment1.params=
+comment1.target=void\ greedyAlgorithmShouldSelectLargeCupsFirst()
+comment2.params=
+comment2.target=void\ shouldReturnNOWhenHeightTooSmall()
+comment3.params=
+comment3.target=void\ shouldSelectOnlyTazaThatFitsWhenHeightExact()
+comment4.params=
+comment4.target=void\ shouldReturnNOWhenNoCupFits()
+numComments=5

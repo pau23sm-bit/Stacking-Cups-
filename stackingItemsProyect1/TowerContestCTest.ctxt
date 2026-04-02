@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=TowerContestCTest
+comment0.text=\r\n\ Casos\ de\ prueba\ comunes\ para\ la\ clase\ TowerContest\ (Ciclo\ 3).\r\n\r\n\ Este\ archivo\ es\ de\ creaci\u00F3n\ colectiva\ con\ tests\ espec\u00EDficos\r\n\ que\ validan\ el\ algoritmo\ Greedy\ de\ la\ marat\u00F3n.\r\n
+comment1.params=
+comment1.target=void\ greedyAlgorithmWithFourCupsAndHeight9()
+comment2.params=
+comment2.target=void\ greedyAlgorithmWithMultipleCups()
+numComments=3

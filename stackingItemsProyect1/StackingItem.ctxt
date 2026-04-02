@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=StackingItem
+comment1.params=number\ color
+comment1.target=StackingItem(int,\ java.lang.String)
+comment10.params=x\ y
+comment10.target=void\ moveTo(int,\ int)
+comment11.params=
+comment11.target=int\ getHeight()
+comment12.params=
+comment12.target=int\ getWidth()
+comment2.params=size
+comment2.target=void\ setBlockSize(int)
+comment3.params=
+comment3.target=boolean\ isVisible()
+comment4.params=
+comment4.target=int\ getNumber()
+comment5.params=
+comment5.target=int\ getX()
+comment6.params=
+comment6.target=int\ getY()
+comment7.params=
+comment7.target=java.lang.String\ getColor()
+comment8.params=
+comment8.target=void\ makeVisible()
+comment9.params=
+comment9.target=void\ makeInvisible()
+numComments=13
